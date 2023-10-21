@@ -30,7 +30,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-1ukefg-bookaroo-o1tj4wijsg.us2.codeanyapp.com', 'https://git.heroku.com/bookaroo.git', 'localhost']
+ALLOWED_HOSTS = ['8000-1ukefg-bookaroo-o1tj4wijsg.us2.codeanyapp.com', 'https://git.heroku.com/bookaroo.git','bookaroo-a2e1622b5485.herokuapp.com', 'localhost']
 
 
 # Application definition
